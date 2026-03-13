@@ -44,7 +44,7 @@ Main analytical tables:
 - Interactive dashboards
 
 ## Project Documents
-- [Project report](docs/rapport-goodair.pdf)
+- [Project report](doc/rapport-goodair.pdf)
 
 ## Author
 Kenza Lamrani
